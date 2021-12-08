@@ -1,0 +1,20 @@
+{
+  "name": "Express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pkg": "^5.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "dev": "nodemon Server",
+    "start": "node Server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
